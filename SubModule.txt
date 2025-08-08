@@ -1,1 +1,1 @@
-This is SubModule V7 for detached head push test
+This is SubModule V8 for modifying submodule and mainmodule simultanouesly
