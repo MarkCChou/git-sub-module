@@ -1,1 +1,1 @@
-This is SubModule V6 for branch test
+This is SubModule V7 for detached head push test
